@@ -3,6 +3,7 @@
 
 ## 使い方
 1. **マトリクスコードの入力**
+
 コードの1行目
 ```JavaScript
 data = "xxx"
@@ -10,6 +11,7 @@ data = "xxx"
 にはA1,A2,の順にマトリクスコードを最後まで入れる。
 
 2. **ショートカットを作成**
+
 iOSデフォルトのショートカットアプリで下図のようにショートカットを作成
 <img width="1851" height="2475" alt="図1" src="https://github.com/user-attachments/assets/96ee0dcb-e4d7-4ac0-93b9-7b526653b6e0" />
 
